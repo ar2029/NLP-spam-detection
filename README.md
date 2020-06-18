@@ -5,12 +5,12 @@ The essence of Natural Language Processing lies in making computers understand t
 
  Basic Steps in NLP for text:
 
-<img url="screenshots/steps%20in%20nlp.PNG" width='800' height='600'>
+<img url="screenshots/steps%20in%20nlp.PNG" width='500' height='400'>
 
  Download all the identifiers:
   import nltk
   nltk.download()
   
-<img url="screenshots/nltk%20download.PNG" width='400' height='400'>
+<img url="screenshots/nltk%20download.PNG" width='200' height='200'>
   
  
